@@ -6,3 +6,7 @@
 
 [assignment week 5](https://github.com/XavieraSpanhaak/Assignments/blob/master/Assignment_week_5.ipynb)
 
+[assignment week 6](https://github.com/XavieraSpanhaak/Assignments/blob/master/assignment4.ipynb)
+
+
+
