@@ -12,6 +12,9 @@
 
 [Final python assignment](https://github.com/XavieraSpanhaak/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
 
+[R assignment](https://github.com/XavieraSpanhaak/Assignments/blob/master/OECD_R_exam.ipynb)
+
+
 
 
 
